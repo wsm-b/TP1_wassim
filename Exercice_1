@@ -1,0 +1,6 @@
+git config --global user.name "wsm-b"
+git config --global user.email "b.wassim10.2004@gmail.com"
+git config --global core.editor vscode
+git config --global color.ui auto
+git config --global alias.lola 'log --graph --decorate --oneline --all'
+git config --global alias.lop 'log --pretty=format:"%h - %an, %ar : %s"'
